@@ -3,7 +3,7 @@
 
 Este proceso se conviritió en un reto que afronté con mucho cariño,compromiso, y disciplina, apesar de las adversidades que se me presentaron, ya que estaba por fuera de mi zona de confort, el crecimiento que recibi y las ganas de seguir aprendiendo constamente me llenan día a día y me confirman que tome la decisión correcta de seguir por este camino de la programación.
 
-Aqui podrás encontrar en mis repositorios  que he trabajado en dos proyectos, individual y en grupo, los cuales me permitieron desarrollar conocimientos Tech y habilidades blandas, en estos aplique tecnologías tales como:
+Aqui podrás encontrar en mis repositorios  que he trabajado en dos proyectos, individual (Pokemon) y en grupo (Inca Adventure), los cuales me permitieron desarrollar conocimientos Tech y habilidades blandas, en estos aplique tecnologías tales como:
   Reat js, Node js, Redux, Sequelize, CSS, Bootsrapt, MercadoPago, HTML, Java Script.
   
   
