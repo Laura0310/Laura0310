@@ -8,5 +8,5 @@ Aqui podrás encontrar en mis repositorios  que he trabajado en dos proyectos, i
   
   
   
-  Actualmente estoy en busca de mi primer experiencia de trabajo, para asi aplicar todo lo aprendido y por supuesto con la disposición de seguir alimentando mi conocimiento, en mi perfil se encuentran mis datos de contacto como el link de mi perfil de LinkedIn y mi correo electronico.
+  Actualmente estoy en busca de mi primer experiencia de trabajo, para asi aplicar todo lo aprendido y por supuesto con la disposición de seguir alimentando mi conocimiento, en mi perfil se encuentran mis datos de contacto.
 
