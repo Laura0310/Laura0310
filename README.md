@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Laura    </h1>
+<h1 align="center">
+  <img src="IMG_1819 (1).png" width="100"  alt="Mi Memoji"/>
+  Hi, I'm Laura
+</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 <br/>
 <p align="center">
