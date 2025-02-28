@@ -1,12 +1,5 @@
 ### Hi there 👋
 
 
-Este proceso se conviritió en un reto que afronté con mucho cariño,compromiso, y disciplina, apesar de las adversidades que se me presentaron, ya que estaba por fuera de mi zona de confort, el crecimiento que recibi y las ganas de seguir aprendiendo constamente me llenan día a día y me confirman que tome la decisión correcta de seguir por este camino de la programación.
-
-Aqui podrás encontrar en mis repositorios  que he trabajado en dos proyectos, individual (Pokemon) y en grupo (Inca Adventure), los cuales me permitieron desarrollar conocimientos Tech y habilidades blandas, en estos aplique tecnologías tales como:
-  Reat js, Node js, Redux, Sequelize, CSS, Bootsrapt, MercadoPago, HTML, Java Script.
-  
-  
-  
-  Actualmente estoy en busca de mi primer experiencia de trabajo, para asi aplicar todo lo aprendido y por supuesto con la disposición de seguir alimentando mi conocimiento, en mi perfil se encuentran mis datos de contacto.
+Soy desarrolladora web con experiencia en la creación de aplicaciones interactivas y optimizadas, integrando APIs REST, notificaciones en tiempo real y análisis de datos. He trabajado en proyectos para el sector gastronómico y de entretenimiento, desarrollando plataformas con gestión de contenido, administración de pedidos, visualización de datos analíticos y optimización SEO. Además, he contribuido al desarrollo de soluciones para eventos E-sports, implementando autenticación basada en roles y herramientas para la gestión de equipos y competiciones. Me especializo en construir interfaces intuitivas y eficientes, enfocadas en mejorar la experiencia del usuario y la operatividad de los negocios.
 
