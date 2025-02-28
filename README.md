@@ -1,7 +1,11 @@
-<h1 align="center">
-  <img src="IMG_1819 (1).png" width="100"  alt="Mi Memoji"/>
-  Hi, I'm Laura
-</h1>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="IMG_1819 (1).png" width="100" alt="Mi Memoji"/></td>
+      <td><h1>Hi, I'm Laura</h1></td>
+    </tr>
+  </table>
+</div>
 <h3 align="center">Fullstack Web Developer</h3>
 <br/>
 <p align="center">
