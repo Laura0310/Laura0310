@@ -9,16 +9,19 @@
 <h3 align="center">Fullstack Web Developer</h3>
 <br/>
 <p align="center">
-  Soy desarrolladora web con experiencia en la creación de aplicaciones interactivas y optimizadas, 
-  integrando APIs REST, notificaciones en tiempo real y análisis de datos. He trabajado en proyectos 
-  para el sector gastronómico y de entretenimiento, desarrollando plataformas con gestión de contenido, 
-  administración de pedidos, visualización de datos analíticos y optimización SEO.
+Soy desarrolladora Full-Stack especializada en el desarrollo de aplicaciones web con JavaScript, TypeScript, React, Next.js, Vue.js y Node.js. Tengo experiencia construyendo plataformas empresariales, sitios web corporativos y aplicaciones administrativas mediante arquitecturas modulares, componentes reutilizables e interfaces responsivas.
 </p>
 <p align="center">
-  Además, he contribuido al desarrollo de soluciones para eventos E-sports, implementando autenticación 
-  basada en roles y herramientas para la gestión de equipos y competiciones. Me especializo en construir 
-  interfaces intuitivas y eficientes, enfocadas en mejorar la experiencia del usuario y la operatividad 
-  de los negocios.
+ En frontend, he trabajado con Server-Side Rendering (SSR), gestión de estado y caché con TanStack Query, Redux y Zustand, integración de APIs REST, comunicación en tiempo real mediante WebSockets y desarrollo de experiencias interactivas con Spline. También tengo experiencia en visualización de datos mediante gráficas HTML, formularios multipaso y generación automatizada de presentaciones PowerPoint utilizando JavaScript.
+</p>
+<p align="center">
+  En backend, he desarrollado servicios y endpoints con Node.js y Express, realizado ajustes en servicios con Python, trabajado con PostgreSQL y procedimientos almacenados para consultas y procesamiento de datos. He implementado integraciones con AWS y Microsoft SharePoint para la automatización de flujos de gestión documental, además de trabajar con Strapi para la creación de modelos de contenido, colecciones y relaciones.
+</p>
+<p align="center">
+  También cuento con experiencia en optimización de rendimiento web, SEO técnico, Core Web Vitals, accesibilidad, integración de herramientas de analítica como Amplitude y Google Analytics, y despliegue de aplicaciones.
+</p>
+<p align="center">
+Me interesa el diseño de soluciones escalables, la automatización de procesos y la toma de decisiones técnicas orientadas a la mantenibilidad y evolución del software.
 </p>
 <br/>
 
